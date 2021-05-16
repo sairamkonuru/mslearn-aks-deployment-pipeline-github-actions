@@ -1,5 +1,6 @@
 name: Build and push the latest build to staging
 
+#test
 on:
   push:
     branches: [ main ]
